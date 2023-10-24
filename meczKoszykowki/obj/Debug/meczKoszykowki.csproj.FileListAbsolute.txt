@@ -1,0 +1,10 @@
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\bin\Debug\meczKoszykowki.exe.config
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\bin\Debug\meczKoszykowki.exe
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\bin\Debug\meczKoszykowki.pdb
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.csprojAssemblyReference.cache
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.Form1.resources
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.Properties.Resources.resources
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.csproj.GenerateResource.cache
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.csproj.CoreCompileInputs.cache
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.exe
+C:\Users\lkrupa\source\repos\meczKoszykowki\meczKoszykowki\obj\Debug\meczKoszykowki.pdb
